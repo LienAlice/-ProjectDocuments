@@ -9,7 +9,11 @@ import org.junit.Test;
 import com.Line.entity.Book;
 import com.Line.mapper.BookMapper;
 import com.Line.tools.DBTools;
-
+/**
+ * 	测试文件
+ * @author Administrator
+ *
+ */
 public class BookService {
 	@Test
 	public void selectBooksByName() {
